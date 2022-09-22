@@ -64,7 +64,7 @@ img[src="./assets/white-logo.png"] {
 div > img[src="assets/pexels-ekaterina-bolovtsova-6077326.jpg"] {
   background-size: cover;
   background-repeat: no-repeat;
-  /* background-position: center; */
+  object-fit: cover;
   width: 900px;
   height: 250px;
   position: absolute;
